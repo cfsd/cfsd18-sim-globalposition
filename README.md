@@ -1,1 +1,2 @@
-# cfsd18-sim-globalposition integrates a kinematic state into a global position
+# cfsd18-sim-globalposition 
+Integrates a kinematic state into a global position
